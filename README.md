@@ -14,7 +14,7 @@ Nota: No pueden verse en el jupyter entonces se optó por subir los screenshots 
 ![Visualizacion3](images/viz3.png)
 
 ### Utilidad de una review comparado a la calificacion
-![Visualizacion4](images/vi4.png)
+![Visualizacion4](images/viz4.png)
 
 
 ## Bosquejo

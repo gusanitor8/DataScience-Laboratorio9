@@ -5,18 +5,6 @@ Nota: No pueden verse en el jupyter entonces se optó por subir los screenshots 
 
 
 ### Distribución de las calificaciónes de las reviews
-<<<<<<< HEAD
-¡[Visualizacion1](images/viz.png)
-
-### Top 10 marcas según el número de reviews
-¡[Visualizacion2](images/viz2.png)
-
-### World Cloud de las palabras más comunes filtradas por calificación
-¡[Visualizacion3](images/viz3.png)
-
-### Utilidad de una review comparado a la calificacion
-¡[Visualizacion4](images/vi4.png)
-=======
 ![Visualizacion1](images/viz.png)
 
 ### Top 10 marcas según el número de reviews
@@ -27,7 +15,6 @@ Nota: No pueden verse en el jupyter entonces se optó por subir los screenshots 
 
 ### Utilidad de una review comparado a la calificacion
 ![Visualizacion4](images/vi4.png)
->>>>>>> f699e17 (readme)
 
 
 ## Bosquejo
